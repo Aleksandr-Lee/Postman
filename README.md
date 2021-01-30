@@ -1,7 +1,7 @@
 # Postman
-Содержимое заголовка:
-X-SuperSecretCode: Alakazam 157
-Тело ответа:
+Содержимое заголовка:  
+X-SuperSecretCode: Alakazam 157  
+Тело ответа:  
 {
     "user": {
         "username": "example",
